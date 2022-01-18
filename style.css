@@ -121,7 +121,7 @@ ul{
 }
 
 .resume{
-    display: grid;
+    display: block;
     grid-template-columns: 40% 1fr;
     grid-gap: 4rem;
     background-color: white;
